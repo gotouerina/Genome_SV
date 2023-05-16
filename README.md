@@ -28,3 +28,5 @@ The result of syri can be visualized by plotsr : https://github.com/schneeberger
 you can install it by typing 
 
         conda install -c bioconda plotsr 
+
+and you can check the example in the plotsr dictionary
