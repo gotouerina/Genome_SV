@@ -34,6 +34,8 @@ and you can check the example in the plotsr dictionary
 
 #   Assemblytics
 
-upload file on http://assemblytics.com
+Upload file on http://assemblytics.com
+
+or dowanload source code on https://github.com/marianattestad/assemblytics
 
 
