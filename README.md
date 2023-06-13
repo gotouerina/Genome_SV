@@ -1,4 +1,4 @@
-# Syri_SV
+# Syri
 syri software used for SV detection
 
 syri : https://github.com/schneebergerlab/syri
@@ -30,3 +30,10 @@ you can install it by typing
         conda install -c bioconda plotsr 
 
 and you can check the example in the plotsr dictionary
+
+
+#   Assemblytics
+
+upload file on http://assemblytics.com
+
+
