@@ -1,5 +1,4 @@
 # Syri
-syri software used for SV detection
 
 syri : https://github.com/schneebergerlab/syri
 
