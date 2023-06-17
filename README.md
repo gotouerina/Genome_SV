@@ -1,5 +1,6 @@
-# Syri
+# Genome SV detection
 
+## 01.syri
 syri : https://github.com/schneebergerlab/syri
 
 To install syri , type
@@ -31,13 +32,13 @@ you can install it by typing
 and you can check the example in the plotsr dictionary
 
 
-#   Assemblytics
+##   02.Assemblytics
 
 Upload file on http://assemblytics.com
 
 or dowanload source code on https://github.com/marianattestad/assemblytics
 
-#   SVIM-ASM
+##   03.SVIM-ASM
 
 snakemake pipeline : svimasmhap.py 
 
