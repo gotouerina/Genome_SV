@@ -39,4 +39,5 @@ or dowanload source code on https://github.com/marianattestad/assemblytics
 
 #   SVIM-ASM
 
+snakemake pipeline : svimasmhap.py 
 
