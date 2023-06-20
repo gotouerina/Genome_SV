@@ -50,3 +50,14 @@ vcfanno is recommanded to annotate the SV VCFformat file. Git : https://github.c
 
 example config.toml are provided in foleder config.
 
+#    SV filter and Go
+
+use gff file
+
+        perl grep.pl $file $output $gff;
+        perl svfilter $input $output;
+
+You may need use convertid2name.pl ,it is in https://github.com/gotouerina/Comparative-genomics-script/blob/main/PERLscripts/convertid2name.pl
+
+Go : metascape
+
