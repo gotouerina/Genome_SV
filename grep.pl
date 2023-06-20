@@ -1,4 +1,5 @@
 #! /usr/bin/perl -w
+## 从volcanno注释的文件中提取跨越基因的sv信息
 use warnings;
 use strict;
 my $file = shift;
