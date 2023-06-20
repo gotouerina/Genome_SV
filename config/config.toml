@@ -1,0 +1,39 @@
+columns=[4]
+ops = ["concat"]
+names = ["Genes"]
+type="String"
+
+[[annotation]]
+file="acomys.exons.srt.bed.gz"
+columns=[4]
+ops = ["concat"]
+names = ["Exons"]
+type="String"
+
+[[annotation]]
+file="acomys.cds_start.srt.bed.gz"
+columns=[4]
+ops = ["concat"]
+names = ["CDS_start"]
+type="String"
+
+[[annotation]]
+file="acomys.cds_end.srt.bed.gz"
+columns=[4]
+ops = ["concat"]
+names = ["CDS_end"]
+type="String"
+
+[[annotation]]
+file="acomys.genes.upstream.bed.gz"
+columns=[4]
+ops = ["concat"]
+names = ["Gene_upstream20k"]
+type="String"
+
+[[annotation]]
+file="acomys.genes.downstream.bed.gz"
+columns=[4]
+ops = ["concat"]
+names = ["Gene_downstream20k"]
+type="String"
