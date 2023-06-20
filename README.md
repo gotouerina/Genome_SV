@@ -48,5 +48,5 @@ vcfanno is recommanded to annotate the SV VCFformat file. Git : https://github.c
         wget https://github.com/brentp/vcfanno/releases/download/v0.3.5/vcfanno_linux64
         vcfanno_linux64 config.toml $vcf > $annotated.vcf
 
-example config.toml are provided.
+example config.toml are provided in foleder config.
 
